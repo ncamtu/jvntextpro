@@ -1,0 +1,1 @@
+java -mx512M -cp bin;libs\lbfgs.jar jvnerecognizer.NERecognizing -modeldir models\jvnerecognizer -inputdir "samples"

@@ -1,0 +1,8 @@
+trainDataFile=train1.tagged
+testDataFile=test1.tagged
+trainLogFile=trainlog1.txt
+modelFile = model.zip
+numIterations=135
+
+fRareThreshold=1
+cpRareThreshold=1

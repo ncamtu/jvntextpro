@@ -1,0 +1,10 @@
+thị trấn
+quận
+huyện
+xã
+tỉnh
+phường
+thành phố
+TP
+P.
+Q.

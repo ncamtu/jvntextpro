@@ -1,0 +1,35 @@
+sáng
+trưa
+chiều
+tối
+ngày
+tháng
+năm
+thế kỉ
+thế kỷ
+thập kỷ
+thập niên
+tuần
+thứ hai
+thứ ba
+thứ tư
+thứ năm
+thứ sáu
+thứ bảy
+chủ nhật
+dịp
+ngày mai
+hôm nay
+sáng nay
+sáng mai
+tối nay
+chiều nay
+chiều mai
+tối mai
+trưa nay
+trưa
+trưa mai
+đêm
+đêm nay
+đêm mai
+

@@ -1,0 +1,11 @@
+trainDataFile=train.tagged
+testDataFile=test.tagged
+modelFile=model.zip
+cpRareThreshold=3
+fRareThreshold=2
+
+numIterations=150
+
+evaluateDuringTraining=true
+saveBestModel=true
+
