@@ -64,7 +64,7 @@ public class JVnTextProTest {
 		
 		try {
 			parser.parseArgument(args);
-			vnTextPro.initSenTokenization();
+			//vnTextPro.initSenTokenization();
 			
 			if (option.doSenSeg){
 				vnTextPro.initSenSegmenter(option.modelDir.getPath() + File.separator + "jvnsensegmenter");				
